@@ -9,7 +9,7 @@
 2. Set up the domain with GitHub pages.
 
     - Go to the GitHub repo containing the bookdown code.
-    - Go to Settings > Options > GitHub Pages and follow the instructors there.
+    - Go to Settings > Options > GitHub Pages and follow the instructions there.
 
 
 
